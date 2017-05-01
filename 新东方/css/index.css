@@ -1,0 +1,163 @@
+*{
+	margin: 0;
+	padding: 0;
+	margin: 0 auto;
+
+}
+#xindongfang {
+	width: 1349px;
+}
+.login {
+	width: 100%;
+	height: 30px;
+	background: #f5f5f5;
+}
+.login1 {
+	padding-left: 174px;
+	padding-right: 174px;
+	margin: 0 auto;
+}
+.please {
+	list-style: none;
+}
+.please li a{
+	color: #ccc;
+	font-size: 12px;
+	line-height: 30px;
+	padding-right: 23px;
+}
+.please li a:hover {
+	color: #2db59c;
+}
+.please li a {
+	text-decoration: none;
+}
+.banner {
+	width: 1001px;
+	height: 93px;
+	margin: 0 auto;
+}
+.nav {
+	width: 1001px;
+	height: 104px;
+	margin: 0 auto;
+}
+.nav h3 {
+	color: #555;
+	font-size: 18px;
+	float: left;
+	line-height: 104px;
+}
+.main {
+	height: 384px;
+	width: 1002px;
+	margin: 0 auto;
+}
+.main-left {
+	width: 131px;
+	height: 100%;
+	background: #00b1a1;
+}
+.main-right {
+	width: 861px;
+	height: 100%;
+}
+.main-left-ul {
+	list-style: none;
+}
+.main-left-ul li {
+	width: 131px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	border: 1px solid #ccc;
+}
+.main-left-ul li a {
+	color: #fff;
+	background: #00b1a1;
+	font-size: 14px;
+}
+.main-left-ul li:hover {
+	background: #31a894;
+	color: #fff;
+	
+}
+.main-left-ul li a:hover {
+	font-size: 18px;
+}
+.main-right-ul {
+	list-style: none;
+	height: 40px;
+	border-bottom: 2px solid #31a894;
+}
+.main-right-ul li {
+	float: left;
+	line-height: 40px;
+	padding-right: 40px;
+}
+.main-right-ul li a{
+	text-decoration: none;
+	color: #555;
+	font-size: 18px;
+}
+.main-right-ul img {
+	float: right;
+}
+.main3 {
+	width: 1001px;
+	height: 266px;
+}
+.hh {
+	width: 1001px;
+	height: 60px;
+	border-bottom: 1px solid #38bca4;
+}
+.main4 {
+	width: 1002px;
+	height: 775px;
+
+}
+.main4-left {
+	width: 745px;
+	height: 100%;
+	float: left;
+
+}
+.main4-right {
+	width: 235px;
+	height: 100%;
+	float: right;
+
+}
+.left-xia {
+	width: 744px;
+	height: 303px;
+}
+.left-xia2 {
+	width: 496px;
+	height: 303px;
+	float: left;
+}
+
+.right-xia {
+	width: 235px;
+	height: 303px;
+	float: right;
+}
+.main5 {
+	width: 1001px;
+	height: 131px;
+	border-bottom: 1px solid #ccc;
+	margin: 0 auto;
+}
+.main6 {
+	width: 1001px;
+	height: 199px;
+	border-bottom: 1px solid #ccc;
+	margin: 0 auto;
+}
+.main7 {
+	width: 1001px;
+	height: 100px;
+	margin: 0 auto;
+}
